@@ -140,19 +140,19 @@ img {
     background-position: center;
 
     &-img1 {
-      background-image: url('/assets/img/imgm1.png');
+      background-image: url('../img/imgm1.png');
       z-index: var(--z-normal);
     }
     &-img2 {
-      background-image: url('/assets/img/imgm2.png');
+      background-image: url('../img/imgm2.png');
       z-index: var(--z-tooltip);
     }
     &-img3 {
-      background-image: url('/assets/img/imgm3.png');
+      background-image: url('../img/imgm3.png');
       z-index: var(--z-fixed);
     }
     &-img4 {
-      background-image: url('/assets/img/imgm4.png');
+      background-image: url('../img/imgm4.png');
       z-index: var(--z-fixed);
     }
   }
